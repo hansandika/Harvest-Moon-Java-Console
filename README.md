@@ -7,15 +7,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/hansandika/Harvest-Moon-Java-Console">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Harvest Moon Console Game</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
     <a href="https://github.com/hansandika/Harvest-Moon-Java-Console"><strong>Explore the docs »</strong></a>
     <br />
     <br />
