@@ -1,0 +1,33 @@
+                                           |                                |                                           
+                                           |           REST    zz     --    |                                           
+                  vvvv                     | --    zz      AREA             |       vvv   v           vvvvv             
+                     vvvv /\               '--------------'===='------------'     vv    vvv            vv   /\          
+                vvvv     /''\ vvvvv                     | x      |                   vvvv   v              /''\         
+   vvv               vv   ||   vvv       vvvv   /\      |       x|                vvv    vvv                ||   vv     
+                              vv   vvv     vv  /''\     |x       |                                        vv    vvv     
+                                  vv            ||            x                      /\  vvv      vv    vv   vvv  vv    
+              vvvv                                 vv              vvvvv            /''\  vvv      v                    
+           vvvvvvvvvv         vv                                    v  vv  vv        ||       vvv                       
+             vvvvvv                    .----------'===='----------.       vvv               v  v v                      
+                 vvvvvv                |        |        |   ++   |    vv   vvv              vvvv                       
+               vvvv                    |    P   |   L    |   ++   |       vvv                               vvvvv       
+                           vvv         |--------------------------|     vvv            vv                vvvvvvvvv      
+                   /\                  |   %%   |        |        |                  vvvv               vvv  vvvvv      
+   vvvvvvv        /''\                 |   %%   |   A    |   N    |                    vvvvvv             vv   vvv      
+     vv            ||                  |--------------------------|             /\  vvvvvv                   vv         
+       vvv             vvvv  v         |   ==   |        |        |       vv   /''\      vvvvvv                         
+   v vv                 vv vv   vv     |   ==   |   T    |   S    |      vv     ||     vv            vvv                
+            vv        vv      vv       '--------------------------'     vvvvv                                           
+                                                                         vv             vv        :---------:           
+              ______            vv                             vvv                    vv         / =    =    \          
+   vv        | COOK |       vvv            ._______.      vv vvv                  vv    vv      /    =     =  \         
+    vvv      '------'        vvv   /\      |HARVEST|        vvvv          vvvvv       vv       +++++++++++++++++        
+    v vvv      |  |       vvv   v /''\     |MOONA._|    vvvvvv           /\  vvvv            v '    ANIMALS    ' v      
+  vv        .---------.            ||       ||---||          vv  vv     /''\   vvvv          v |    _______    | v      
+     vvv    | + + + + |                                                  || vvv              v |   |\ \ / /|   | v      
+   vv      .-----------.                                                                     v |   | \/ \/ |   | v      
+                                                    vvv   vvvv                   vv          v .   | /\ /\ |   . v      
+      vvv               vvv                             vv  vvvv                             v ----------------- v      
+    vv             vvv                               vvv   vvvv                              vvvvvvvvvvvvvvvvvvvvv      
+                     vvv                               vvvv                                                             
+                                                                                                                        
